@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New Technologies, Cloud Computing, Vuejs Reactjs, Nodejs, Expressjs, Axios.
 - 🌱 I’m currently Working on Vuejs 3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on email address ghaznfarwa2@gmail.com
 
 <!---
 Ghaznfar/Ghaznfar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
