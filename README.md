@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:1a1a2e&height=200&section=header&text=Ghaznfar%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20CI%2FCD&descAlignY=55&descSize=18" width="100%" alt="banner" />
+
 # GHAZNFAR HASSAN
 
 ### **DevOps Engineer** &middot; Kubernetes &middot; Cloud Infrastructure &middot; CI/CD
