@@ -31,18 +31,28 @@ Currently deepening my Kubernetes administration skills and preparing for the **
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Grafana Mimir](https://img.shields.io/badge/Grafana_Mimir-F46800?style=for-the-badge)
 
 **Currently learning**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Istio](https://img.shields.io/badge/Service_Mesh_(Istio)-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Backstage](https://img.shields.io/badge/Platform_Eng_(Backstage)-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-000000?style=for-the-badge)
+![FinOps](https://img.shields.io/badge/FinOps-2E8555?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents_%26_LLMOps-6F42C1?style=for-the-badge)
 
 ---
 
@@ -74,9 +84,14 @@ Currently deepening my Kubernetes administration skills and preparing for the **
     <td>Cluster Networking &amp; Storage</td>
   </tr>
   <tr>
-    <td>GitOps (ArgoCD)</td>
-    <td>AWS Fundamentals</td>
-    <td>Observability (Prometheus/Grafana)</td>
+    <td>GitOps (Helm/ArgoCD)</td>
+    <td>Service Mesh (Istio)</td>
+    <td>Platform Engineering (Backstage)</td>
+  </tr>
+  <tr>
+    <td>eBPF</td>
+    <td>FinOps</td>
+    <td>AI Agents &amp; LLMOps</td>
   </tr>
 </table>
 
