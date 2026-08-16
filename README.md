@@ -4,7 +4,7 @@
 
 # GHAZNFAR HASSAN
 
-### **DevOps Engineer** &middot; Kubernetes &middot; Cloud Infrastructure &middot; CI/CD
+### **DevOps Engineer** &middot; AWS &middot; Kubernetes &middot; Cloud Infrastructure &middot; CI/CD
 
 `Docker` &middot; `Kubernetes` &middot; `CI/CD` &middot; `AWS` &middot; `Linux` &middot; `GitOps`
 
